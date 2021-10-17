@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align = "center">Hello there, I am Ritam Majumdar</h1>
 <h3 align = "center">A very keen AI Enthusiast</h3>
 
